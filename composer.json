@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "unisharp/laravel-filemanager": "^1.9",
+    "mafftor/laravel-file-manager": "*",
     "van-ons/laraberg": "~1.0.3"
   },
   "autoload": {
