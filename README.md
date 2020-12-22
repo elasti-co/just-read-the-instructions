@@ -11,7 +11,7 @@ This plugin stands on the shoulders of [Laraberg](https://github.com/VanOns/lara
 Install the composer package:
 
 ```sh
-composer require generalsystemsvehicle/just-read-the-instructions
+composer require elasti-co/just-read-the-instructions
 ```
 
 Publish configurations and assets for the Just Read The Instructions as well as Laravel Filemanager:
